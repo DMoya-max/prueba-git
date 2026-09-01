@@ -1,9 +1,8 @@
 console.log("=== Servidor de prueba iniciado ===");
 
 function home() {
-    console.log("Ruta principal: ¡Bienvenido al proyecto!");
+    console.log("Ruta principal: Estimado usuario, bienvenido a la plataforma.");
 }
-
 home();
 
 function obtenerTareas() {
