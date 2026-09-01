@@ -1,7 +1,7 @@
 console.log("=== Servidor de prueba iniciado ===");
 
 function home() {
-    console.log("Ruta principal: ¡Bienvenido al proyecto!");
+    console.log("Ruta principal: ¡Hola! Qué bueno verte por aquí.");
 }
 
 home();
