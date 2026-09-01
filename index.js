@@ -5,3 +5,9 @@ function home() {
 }
 
 home();
+
+function obtenerTareas() {
+    return ["Aprender Git", "Crear ramas", "Resolver conflictos"];
+}
+
+console.log("Tareas pendientes:", obtenerTareas());
