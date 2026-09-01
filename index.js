@@ -7,6 +7,7 @@ function home() {
 home();
 
 function obtenerTareas() {
+    console.log("Obteniendo tareas")
     return ["Aprender Git", "Crear ramas", "Resolver conflictos"];
 }
 
